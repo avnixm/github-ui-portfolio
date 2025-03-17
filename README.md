@@ -1,6 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nikka's Portfolio
+
+A GitHub-themed personal portfolio website built with Next.js and Tailwind CSS.
+
+## Overview
+
+This project is a personal portfolio website that mimics the GitHub interface. It showcases my skills, education, projects, and contact information in a familiar GitHub-style layout.
+
+## Features
+
+- GitHub UI clone with dark theme
+- Responsive design
+- Dynamic section navigation
+- GitHub contribution graph integration
+- Programming language statistics
+- Project showcase
+- Education timeline
+- Contact information
+
+## env.local
+GITHUB_TOKEN=your_github_personal_access_token
+
+(the read:user token to get the contributions and languages used)
+
+## Tech Stack
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- GitHub API integration
 
 ## Getting Started
+
+### Prerequisites
+
+- Node.js 18.x or higher
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/avnixm/nikka-portfolio.git
+cd nikka-portfolio
+```
 
 First, run the development server:
 
