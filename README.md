@@ -17,29 +17,43 @@ This project is a personal portfolio website that mimics the GitHub interface. I
 - Education timeline
 - Contact information
 
-## env.local
+## Tech Stack
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- GitHub API integration
+
+## Preview
+
+### About
+![About section](https://github.com/user-attachments/assets/c2116f92-89ad-4130-a396-a6328df089d4)
+
+### Projects
+![Projects section](https://github.com/user-attachments/assets/90ffad35-a574-462e-ae7a-39f65af69772)
+
+### Skills
+![Skills section](https://github.com/user-attachments/assets/a25c7950-00f2-48c0-b71f-2bbcc784f76b)
+
+### Education
+![Education section](https://github.com/user-attachments/assets/15de2cbe-8e65-4b09-8e5e-cec2903fccd7)
+
+### Contact
+![Contact section](https://github.com/user-attachments/assets/8e1d1a6e-c8a2-4a74-8f58-82010b0a4c4c)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18.x or higher
+- npm or yarn
+
+### Environment Setup
+
+Create a `.env.local` file in the root directory with:
 GITHUB_TOKEN=your_github_personal_access_token
 
 (the read:user token to get the contributions and languages used)
-
-## Preview
-#### About You
-![image](https://github.com/user-attachments/assets/c2116f92-89ad-4130-a396-a6328df089d4)
-
-#### Projects
-![image](https://github.com/user-attachments/assets/90ffad35-a574-462e-ae7a-39f65af69772)
-
-#### Skills
-![image](https://github.com/user-attachments/assets/a25c7950-00f2-48c0-b71f-2bbcc784f76b)
-
-#### Education
-![image](https://github.com/user-attachments/assets/15de2cbe-8e65-4b09-8e5e-cec2903fccd7)
-
-#### Contacts
-![image](https://github.com/user-attachments/assets/8e1d1a6e-c8a2-4a74-8f58-82010b0a4c4c)
-
-
-
 
 ## Tech Stack
 
