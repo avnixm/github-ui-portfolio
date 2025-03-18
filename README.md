@@ -1,4 +1,4 @@
-# Nikka's Portfolio
+# Github UI Portfolio
 
 A GitHub-themed personal portfolio website built with Next.js and Tailwind CSS.
 
