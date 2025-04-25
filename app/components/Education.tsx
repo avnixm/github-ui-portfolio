@@ -18,7 +18,7 @@ export default function Education() {
       id: 2,
       institution: "Bartolome Sangalang National High School",
       degree: "Secondary Education",
-      period: "2018 - 2022",
+      period: "2016 - 2022",
       description:
         "Completed secondary education with honors, participating in various technology and programming competitions.",
     },
@@ -26,7 +26,7 @@ export default function Education() {
       id: 3,
       institution: "Guimba East Elementary School",
       degree: "Primary Education",
-      period: "2012 - 2018",
+      period: "2010 - 2016",
       description:
         "Completed primary education with distinction, developing early interest in mathematics and science.",
     },
