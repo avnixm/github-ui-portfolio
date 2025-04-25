@@ -10,9 +10,9 @@ export default function Contact() {
     },
     {
       icon: "🔗",
-      label: "LinkedIn",
-      value: "linkedin.com/in/nikka-marino",
-      link: "https://linkedin.com/in/nikka-marino",
+      label: "Facebook",
+      value: "Nikka Aira Villanueva Mariño",
+      link: "https://web.facebook.com/avnixm",
     },
     {
       icon: "💻",

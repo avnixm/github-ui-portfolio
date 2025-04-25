@@ -35,7 +35,7 @@ export default function About() {
             </li>
             <li className="flex items-center">
               <span className="mr-2">📫</span>
-              How to reach me <a href="mailto:nikkamarino8@gmail.com" className="text-[#58a6ff] hover:underline">nikkamarino8@gmail.com</a>
+              How to reach me: <a href="mailto:nikkamarino8@gmail.com" className="text-[#58a6ff] hover:underline"> nikkamarino8@gmail.com</a>
             </li>
           </ul>
 
@@ -57,10 +57,10 @@ export default function About() {
           <div className="mt-8">
             <h3 className="text-lg font-semibold text-[#c9d1d9] mb-4">Connect with me:</h3>
             <div className="flex gap-4">
-              <a href="https://twitter.com/yourusername" className="text-[#58a6ff] hover:text-[#58a6ff]/80">
+              <a href="https://twitter.com/avnixm" className="text-[#58a6ff] hover:text-[#58a6ff]/80">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
               </a>
-              <a href="https://facebook.com/yourusername" className="text-[#58a6ff] hover:text-[#58a6ff]/80">
+              <a href="https://facebook.com/avnixm" className="text-[#58a6ff] hover:text-[#58a6ff]/80">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30"/>
               </a>
             </div>
